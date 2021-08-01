@@ -24,7 +24,7 @@ Tenemos el siguiente diagrama eléctrico con el cual realizaremos nuestra práct
 
 1.  Seleccionamos los materiales que vamos a usar para nuestra practica, en este  caso necesitaremos.
 
-
+![Materiales](https://github.com/AlexMP98/Laboratorio-N6/blob/main/Imagenes/Materialeslab6.png)
 
 ![Paso 1](https://github.com/AlexMP98/Laboratorio-N6/blob/main/Imagenes/Paso%201.png)
 
