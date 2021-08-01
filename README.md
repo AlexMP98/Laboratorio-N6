@@ -18,6 +18,46 @@ _Objetivos Específicos_
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
+Tenemos el siguiente diagrama eléctrico con el cual realizaremos nuestra práctica en el simulador tinkercad.
+
+
+
+1.  Seleccionamos los materiales que vamos a usar para nuestra practica, en este  caso necesitaremos.
+
+      •	1 Fuente de voltaje de C.D.
+      •	1 Multimetro digital
+      •	1 Protoboard
+      •	1 Resistor de 220 Ω  
+      •	1 Resistor de 470 Ω  
+      •	1 Resistor de 680 Ω  
+      •	1 Resistor de 820 Ω  
+      •	1 Resistor de 1 kΩ  
+      •	1 Resistor de 1.5 kΩ  
+      •	1 Resistor de 1.8 kΩ  
+      •	1 Resistor de 2.2 kΩ  
+      •	1 Resistor de 3.9 kΩ  
+      •	1      Resistor de 4.7 kΩ 
+      
+2.  Colocamos las resistencias en el protoboard en sus respectivas posiciones, de acuerdo al diagrama eléctrico planteado para la práctica. Por lo tanto tenemos lo siguiente:
+
+
+
+3.  Interconectamos las resistencias con su respectivo cableado (rojo +, negro -) siguiendo el diagrama eléctrico, por lo tanto tenemos:
+
+
+
+4.  Conectamos la fuente de voltaje al protoboard y asignamos un suministro de energía de 15V.  
+
+
+
+5.  Iniciamos la simulación de nuestro circuito, medimos el voltaje y la corriente en el resistor RL.
+
+
+
+6.  Usaremos en simulador Dcaclab, para medir la potencia en el resistor RL 220 Ω, repetir el proceso con todas las resistencias RL.
+
+
+
 
 **4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**       
 4.5.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.       
