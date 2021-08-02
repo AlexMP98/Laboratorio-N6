@@ -98,7 +98,7 @@ No se cumple el Teorema de Máxima Transferencia de Potencia ya que el teorema i
 
 **5. VIDEO**
 
-Lunk del video:  https://youtu.be/ovm7CxOl-Yk
+Link del video:  https://youtu.be/ovm7CxOl-Yk
 
 **6. CONCLUSIONES**
 
