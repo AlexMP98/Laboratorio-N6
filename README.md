@@ -98,6 +98,8 @@ No se cumple el Teorema de Máxima Transferencia de Potencia ya que el teorema i
 
 **5. VIDEO**
 
+https://youtu.be/ovm7CxOl-Yk
+
 **6. CONCLUSIONES**
 
 -La reduccion de un circuito complejo a una fuente y resistencia de Thevenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
