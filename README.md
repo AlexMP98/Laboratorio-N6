@@ -6,9 +6,15 @@
 
 _Objetivo General_
 
+-Determinar experimental y analiticamente las condiciones necesarias para hallar la maxima transferencia de Potencia.
 
 _Objetivos Específicos_
 
+-Comprender y aplicar los fundamentos basicos del teorema.
+
+-Determinar la resistencia de carga requerida en cualquier circuito.
+
+-Analizar  el  efecto  de  la  variación  de  la  carga  en  la  potencia  entregada  por  un circuito.
 
 **2. MARCO TEÓRICO**
 
@@ -94,5 +100,11 @@ No se cumple el Teorema de Máxima Transferencia de Potencia ya que el teorema i
 
 **6. CONCLUSIONES**
 
+-La reduccion de un circuito complejo a una fuente y resistencia de Thevenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
+-Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
+
 **7. BIBLIOGRAFÍA**
+
+CIRCUITOS ELÉCTRICOS, J.W. Nilsson. Ed. Addison-Wesley Iberoamericana, 1995.
+Fundamentos de Circuitos Eléctricos. Charles K. Alexander y Matthew N. O. Sadiku. McGraw-Hill Companies, Inc.
 
