@@ -98,11 +98,12 @@ No se cumple el Teorema de Máxima Transferencia de Potencia ya que el teorema i
 
 **5. VIDEO**
 
-https://youtu.be/ovm7CxOl-Yk
+Lunk del video:  https://youtu.be/ovm7CxOl-Yk
 
 **6. CONCLUSIONES**
 
--La reduccion de un circuito complejo a una fuente y resistencia de Thevenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.
+-La reduccion de un circuito complejo a una fuente y resistencia de Thevenin nos ayuda para poder determinar más rápido la transferencia de potencia hacia un resistor.      
+
 -Dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
 
 **7. BIBLIOGRAFÍA**
