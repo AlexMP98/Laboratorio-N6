@@ -12,7 +12,7 @@ _Objetivos Específicos_
 
 -Comprender y aplicar los fundamentos basicos del teorema.
 
--Determinar la resistencia de carga requerida en cualquier circuito.
+-Calcular la potencia  de cada resistencia equivalente  en el circuito.
 
 -Analizar  el  efecto  de  la  variación  de  la  carga  en  la  potencia  entregada  por  un circuito.
 
